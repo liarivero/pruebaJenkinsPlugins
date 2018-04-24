@@ -1,1 +1,1 @@
-node { echo 'hola' }
+node{ echo 'hola' }
